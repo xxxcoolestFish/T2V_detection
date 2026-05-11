@@ -178,20 +178,6 @@ msc_src/
 └── README.md
 ```
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@thesis{zhuang2025msc,
-  title     = {Detection Method for Large-Model Generated Videos Based on
-               Visual Artifacts and Audio-Visual Consistency},
-  author    = {庄新鱼},
-  year      = {2025},
-  school    = {[...]},
-  note      = {基于视觉伪迹与视听一致性的大模型生成视频判别方法}
-}
-```
 
 ## License
 
